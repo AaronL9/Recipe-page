@@ -33,8 +33,8 @@ Blog preview card quick view
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/AaronL9/Blog-preview-card.git)
-- Live Site URL: [Social-links-profile](https://aaronl9.github.io/Blog-preview-card/)
+- Solution URL: [GitHub](https://github.com/AaronL9/Recipe-page.git)
+- Live Site URL: [Social-links-profile](https://aaronl9.github.io/Recipe-page/)
 
 ## My process
 
